@@ -1,0 +1,66 @@
+@font-face {
+  font-family: digital-7-mono;
+  src: url(../src/assets/digital-7mono.ttf);
+}
+
+:root {
+  /* custom variables */
+  --ff: "Ubuntu", sans-serif;
+  --ff-digital: "digital-7-mono", cursive;
+
+  --fw-bold: 700;
+
+  --fs-title: 3rem;
+  --fs-section-title: 1.8rem;
+  --fs-count: 3rem;
+  --fs-countdown: 8rem;
+  --fs-footer: 1.1rem;
+
+  --letter-spacing: 0.1rem;
+
+  --clr-dark: #424552;
+  --clr-light: hsl(120, 4%, 65%);
+  --clr-dark-green: #2e5c48;
+  --clr-green: #587e6d;
+  --clr-black: #000000;
+}
+
+/* reset */
+* {
+  box-sizing: border-box;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* set-up */
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--clr-dark-green);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--clr-green);
+}

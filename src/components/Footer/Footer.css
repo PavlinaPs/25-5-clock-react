@@ -1,0 +1,7 @@
+.footer {
+  margin-top: 1.2rem;
+  font-family: var(--ff);
+  font-size: var(--fs-footer);
+  color: var(--clr-black);
+  text-align: center;
+}
