@@ -14,7 +14,9 @@ const Footer = () => {
           Project #5
         </a>
         &nbsp;&nbsp;|&nbsp;&nbsp;Coded by &nbsp;
-        <a href="https://github.com/PavlinaPs/25+5-clock">Pavlina Psarsky</a>
+        <a href="https://github.com/PavlinaPs/25-5-clock-react">
+          Pavlina Psarsky
+        </a>
       </p>
     </footer>
   );

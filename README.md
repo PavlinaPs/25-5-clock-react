@@ -30,7 +30,7 @@ Fulfill the user stories and get all of the tests to pass. You can use any mix o
 
 ### Links
 
-- Solution URL: https://github.com/PavlinaPs/25+5-clock-react
+- Solution URL: https://github.com/PavlinaPs/25-5-clock-react
 - Live Site URL: https://pavlinaps.github.io/25+5-clock-react
 
 ## My process
